@@ -4,9 +4,3 @@
 [submodule "backend"]
 	path = backend
 	url = https://github.com/SoulOfDarknes/BE.git
-[submodule "main-repo/FE"]
-	path = main-repo/FE
-	url = https://github.com/SoulOfDarknes/FE.git
-[submodule "main-repo/BE"]
-	path = main-repo/BE
-	url = https://github.com/SoulOfDarknes/BE.git
